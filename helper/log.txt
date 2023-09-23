@@ -1,0 +1,8 @@
+original hyperparams:
+
+batch size 4, 100 epochs, lr = 0.001, SGD optim
+
+2nd run: batch size 32, 500 epochs, lr = 0.001, ADAM optim 
+3rd run: built on second, batch size 24, 500 more epochs, lr = 0.1, ADAM optim
+
+4th run: remove weight decay
